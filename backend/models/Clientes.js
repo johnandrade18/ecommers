@@ -44,7 +44,7 @@ const Clientes = sequelize.define("clientes", {
         type: Sequelize.STRING,
         required: false,
     },
-    numero_document: {
+    numero_documento: {
         type: Sequelize.STRING,
         required: false,
     },
